@@ -1,12 +1,33 @@
-## Hi there 👋
+# Concave Project 
 
-<!--
+## Our target
 
-**Here are some ideas to get you started:**
+**'Trusted'**, **'Open Source'** Autonomous Software Engineering
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+Try our demo Playbook: [Concave Playbook](https://concave-ai.vercel.app/)
+
+# Vision
+
+We explore where the boundaries of automated software engineering lie with current LLMs.
+We explore how the future software development process will evolve.
+
+
+# Roadmap
+
+### Concave Workspace:
+
+The first IDE/Workspace designed for LLM agents, not for humans.
+
+- Concave Hybrid Code Search
+- Concave Sandbox
+- Concave Playbook
+
+
+
+
+### Concave Fleet:
+
+A demonstrative framework for automatic GitHub issue resolution. 
+
+Using concave hybrid code search and sandbox, in just one week, we significantly improved the problem localization success rate on the SWE-Bench Verify test set.
