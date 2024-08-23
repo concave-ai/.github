@@ -4,8 +4,11 @@
 
 **'Trusted'**, **'Open Source'** Autonomous Software Engineering
 
+Homepage: https://concave-ai.vercel.app
 
-Try our demo Playbook: [Concave Playbook](https://concave-ai.vercel.app/)
+Docs: https://concave-docs.vercel.app
+
+Try our demo Playbook: [Concave Playbook](https://concave-ai.vercel.app/playbook)
 
 # Vision
 
